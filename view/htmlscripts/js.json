@@ -1,0 +1,15 @@
+{
+    "global": [
+        "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+    ],
+    "dentista":[
+        "http://labconnect.com.br/view/files/slidebars/slidebars.js",
+        "http://labconnect.com.br/view/files/js/scripts.js",
+        "http://labconnect.com.br/view/files/client/js/scripts.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment-with-locales.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.37/js/bootstrap-datetimepicker.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"
+    ]
+}

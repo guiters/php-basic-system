@@ -1,0 +1,12 @@
+{
+    "usuarios": [
+        "nome",
+        "sobrenome",
+        "email",
+        "cpf"
+    ],
+    "acesso":[
+        "usuario",
+        "senha"
+    ]
+}
